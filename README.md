@@ -3,8 +3,7 @@
 
 ## Only for educational purposes
 
-![Screen Shot 2022-07-06 at 3 31 32 PM](https://user-images.githubusercontent.com/47497714/177525385-63d4c9f4-dfb1-4573-8797-57678b27fabd.png)
-
+![CleanShot 2022-07-06 at 15 39 06](https://user-images.githubusercontent.com/47497714/177526894-f889a060-1937-4ba6-a43b-979bc6d733a8.png)
 
 
 
@@ -20,7 +19,7 @@
 | **OS**         | `macOS 🍏 BigSur 11.6.6, Triple Boot  Windows 11🪟 + Garuda Blackhat Linux 🦅 wayfire `          |
 
 
-![Screen Shot 2022-07-06 at 3 36 18 PM](https://user-images.githubusercontent.com/47497714/177526352-2d6e4f30-b17f-431d-96e2-e16b69a13e39.png)
+![CleanShot 2022-07-06 at 15 38 03](https://user-images.githubusercontent.com/47497714/177526780-cced6b82-83d4-4a3a-aab9-7c442c4d0478.png)
 
 ## Donate
 
