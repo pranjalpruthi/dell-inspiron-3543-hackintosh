@@ -1,7 +1,12 @@
 # Dell-Inspiron-3543-Hackintosh (2022 Guide 💁🏻‍♂️)
  😇 Because I don't own a 💻 Mac but still love it for doing my research work studies and web development ❤️.hence, I've created a EFI for macOS BigSur 11.6.6 📶 Wifi, Bluetooth (ᛒ), Mic 🎤, Speakers🔊, Touchpad, Display Brightness☀️ All working thanks 🙏to the kext modified and included. 👋Have Fun!🪄✨
 
-## Only for educational purposes
+## Updated to Ventura 13.1 Enjoy!
+[Screenshot 2023-01-21 at 12 49 12 AM](https://user-images.githubusercontent.com/47497714/213887023-bf4271a7-3bd7-4624-8020-5b756f4b2e96.png)
+
+
+## Only for educational purposes!
+
 
 ![CleanShot 2022-07-06 at 15 39 06](https://user-images.githubusercontent.com/47497714/177526894-f889a060-1937-4ba6-a43b-979bc6d733a8.png)
 
